@@ -1,2 +1,2 @@
 file 3
-introduction to git
+introduction
